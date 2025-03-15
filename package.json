@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "discord.js": "^14.18.0"
+  },
+  "name": "discordstatusapi",
+  "version": "1.0.0",
+  "description": "DiscordStatusAPI is a simple and efficient API that connects to Discord using OAuth2 authentication, allowing you to retrieve real-time information about a user's status.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OXAnetworks/DiscordStatusAPI.git"
+  },
+  "keywords": [
+    "discord-status",
+    "discord-presence"
+  ],
+  "author": "Pol Navarro",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/OXAnetworks/DiscordStatusAPI/issues"
+  },
+  "homepage": "https://github.com/OXAnetworks/DiscordStatusAPI#readme"
+}
